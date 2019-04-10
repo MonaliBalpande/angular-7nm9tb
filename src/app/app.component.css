@@ -1,3 +1,26 @@
 p {
   font-family: Lato;
 }
+
+#nav {
+	list-style-type: initial;
+	margin: 0;
+	padding: 5;
+	text-align: center;
+	
+}
+	
+
+
+#nav a {
+	text-decoration: none;
+	font-family: Cambria, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+	color: #596365;
+  display: relative block
+}
